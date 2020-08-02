@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2020-08-02 16:21:00 +08:00
-published: false
+layout: page
 ---
 
 I am a Python / Django developer in Perth, Western Australia.
