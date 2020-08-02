@@ -1,0 +1,9 @@
+<article class="content">
+    <header>
+        <h2 class="content__title">{{ page.title }}</h2>
+        {% if page.date %}<a href="{{ page.url }}" class="content__created-at">Posted on {{ page.date|date:"%d %B %Y" }}</a>{% endif %}
+        <div class="content__body">
+            {{ content }}
+        </div>
+    </header>
+</article>

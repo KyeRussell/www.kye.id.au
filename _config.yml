@@ -5,6 +5,10 @@ collections:
   posts:
     title: Posts
     output: true
+  pages:
+    title: Pages
+    output: true
+    permalink: /:title/
   uploads:
     title: Uploads
     output: true

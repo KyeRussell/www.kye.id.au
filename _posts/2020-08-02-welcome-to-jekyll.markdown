@@ -1,9 +1,6 @@
 ---
 title: Welcome to Jekyll!
 date: 2020-08-02 12:19:41 +08:00
-categories:
-- jekyll
-- update
 layout: post
 ---
 
