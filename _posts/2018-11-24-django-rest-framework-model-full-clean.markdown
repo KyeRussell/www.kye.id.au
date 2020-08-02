@@ -1,6 +1,6 @@
 ---
 title: Understanding Django REST Framework and Model.full_clean()
-date: 2018-11-24 17:46
+date: 2018-11-24 17:46:00 +08:00
 layout: post
 ---
 

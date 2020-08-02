@@ -2,13 +2,13 @@
 title: Kye Russell
 timezone: Australia/Perth
 collections:
-  posts:
-    title: Posts
-    output: true
   pages:
     title: Pages
     output: true
-    permalink: /:title/
+    permalink: "/:title/"
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
