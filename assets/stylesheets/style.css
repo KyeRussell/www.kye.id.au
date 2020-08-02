@@ -1,0 +1,161 @@
+/* Base */
+
+:root {
+    --color-black: rgb(71, 70, 71);
+    --color-orange: rgb(232, 129, 33);
+    --color-orange-background: rgb(255, 242, 235);
+    --color-white: whitesmoke;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Merriweather';
+    color: var(--color-black);
+}
+
+::selection {
+    background-color: var(--color-orange);
+    color: var(--color-white);
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+#wrapper {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+main {
+    border-top: 1px dotted var(--color-orange);
+    border-bottom: 1px dotted var(--color-orange);
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Merriweather';
+}
+
+/* Link styles */
+
+a {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline solid var(--color-orange);
+}
+
+a::selection {
+    color: var(--color-white);
+}
+
+/* Header, nav */
+
+.header {
+    font-family: 'Merriweather';
+    text-align: center;
+}
+
+.header__blurb {
+    font-size: 1.45em;
+}
+
+.nav ul {
+    padding: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.nav ul :not(:last-child) {
+    margin-right: 10px;
+}
+
+.nav__option {
+    display: inline;
+    font-size: 1.2em;
+}
+
+.nav__option--active {
+    text-decoration: underline double var(--color-orange);
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+}
+
+/* General content */
+
+.content__title {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+.content__body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65;
+    font-size: 1.1em;
+}
+
+.content__body blockquote {
+    margin-left: 0px;
+    padding-left: 3%;
+    border-left: 3px dotted var(--color-orange);
+}
+
+.content__body a {
+    color: var(--color-orange);
+}
+
+.content__back-to-posts {
+    margin-bottom: 30px;
+    display: block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.content__back-to-posts::before {
+    content: "← ";
+}
+
+
+/* Code */
+
+pre {
+    padding: 10px;
+    font-family: 'Roboto Mono', monospace;
+    line-height: 1;
+    margin: 0;
+    border: 2px solid var(--color-orange);
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: var(--color-orange-background);
+}
+
+
+/* Article list (homepage) */
+
+.article-list__year-section {
+    padding-top: 20px;
+}
+
+.article-list__year-section::before {
+    content: attr(data-year);
+    font-size: 1.3em;
+    text-align: center;
+    display: block;
+    color: var(--color-orange);
+}
+
+
+/* 🐾 */
+.content__dogs::after {
+    content: " 🐾";
+}
