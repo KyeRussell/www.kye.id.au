@@ -20,4 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
+email: me@kye.id.au
 permalink: pretty
