@@ -24,3 +24,11 @@ It is important to understand what a bioptic is, physically and functionally. An
 #### Does it really work?
 
 Supposedly, yes. I was—and remain—deeply skeptical. I feel that I understand the limitations of my vision, and having received shrugs and sorry looks from optometrists my entire life, the prospect of something helping enough to allow me to drive sounds like fiction. Alas, there are [numerous success stories on the Bioptic Drivers Australia website](https://www.biopticdriversaus.com/success-stories). The data-driven skeptic in me thinks that [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) is at play. After all, who's writing a story about how they _weren't_ eligible for a bioptic? I've resolved to give it a shot anyway. 
+
+#### Is it safe?
+
+Seemingly yes. This is a fact that I am still coming to terms with. There's actually been a fair bit of small-scale worldwide research into using bioptics to drive.
+
+> Half of the subjects who entered the bioptic training program passed the official fitness to drive test, demonstrating that they could drive smoothly and safely in Dutch traffic using a bioptic telescope system.
+
+Melis-Dankers, B. J. M., Kooijman, A. C., Brouwer, W. H., Busscher, R. B., Bredewoud, R. A., Derksen, P. H., Amersfoort, A., Ijsseldijk, M. A. M., van Delden, G. W., Grotenhuis, T. H. P. A., & Witvliet, J. M. D. (2008). A Demonstration Project on Driving with Reduced Visual Acuity and a Bioptic Telescope System in the Netherlands. Visual Impairment Research, 10(1), 7–22. https://doi.org/10.1080/13882350802053707 
