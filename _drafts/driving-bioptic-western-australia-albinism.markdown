@@ -29,6 +29,9 @@ Supposedly, yes. I was—and remain—deeply skeptical. I feel that I understand
 
 Seemingly yes. This is a fact that I am still coming to terms with. There's actually been a fair bit of small-scale worldwide research into using bioptics to drive.
 
+[In a Dutch study that trialed bioptics on people with a visual impairment](https://doi.org/10.1080/13882350802053707): 
+
 > Half of the subjects who entered the bioptic training program passed the official fitness to drive test, demonstrating that they could drive smoothly and safely in Dutch traffic using a bioptic telescope system.
 
-Melis-Dankers, B. J. M., Kooijman, A. C., Brouwer, W. H., Busscher, R. B., Bredewoud, R. A., Derksen, P. H., Amersfoort, A., Ijsseldijk, M. A. M., van Delden, G. W., Grotenhuis, T. H. P. A., & Witvliet, J. M. D. (2008). A Demonstration Project on Driving with Reduced Visual Acuity and a Bioptic Telescope System in the Netherlands. Visual Impairment Research, 10(1), 7–22. https://doi.org/10.1080/13882350802053707 
+[In a US study where bioptic driving performance/correctness was measured against age-controlled 'sighted' counterparts](https://doi.org/10.1167/iovs.12-11485)
+> Ninety-six percent (22/23) of bioptic drivers and 100% (23/23) of controls were rated as safe to drive by the evaluators. There were no group differences for pedestrian detection, or ratings for scanning, speed, gap judgments, braking, indicator use, or obeying signs/signals. Bioptic drivers received worse ratings than controls for lane position and steering steadiness and had lower rates of correct sign and traffic signal recognition. Bioptic drivers made significantly more right head movements, drove more often over the right-hand lane marking, and exhibited more sudden braking than controls.
