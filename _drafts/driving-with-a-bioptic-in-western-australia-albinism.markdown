@@ -8,3 +8,7 @@ I live in metropolitan Western Australia, and I have Albinism. A common precipit
 Recently I've become aware of 'bioptics', an obvious-in-hindsight visual aid. Despite bioptics having supposedly been around for decades in the US, it's taken me—someone that's regularly seen optometrists, ophthalmologists, and occupational therapists my entire life—until my mid-20s to come across them in a Facebook group.
 
 It seems to be very early days for bioptics in Australia. As such, I saw value in sharing my experience—successful or otherwise—as it happens, in hope that it will help others.
+
+# What is a bioptic?
+
+A bioptic is a 
