@@ -23,7 +23,7 @@ It is important to understand what a bioptic is, physically and functionally. An
 
 #### Does it really work?
 
-Supposedly, yes. I was—and remain—deeply skeptical. I feel that I understand the limitations of my vision, and having received shrugs and sorry looks from optometrists my entire life, the prospect of something helping enough to allow me to drive sounds like fiction. Alas, there are [numerous success stories on the Bioptic Drivers Australia website](https://www.biopticdriversaus.com/success-stories). The data-driven skeptic in me thinks that [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) is at play. After all, who's writing a story about how they _weren't_ eligible for a bioptic? I've resolved to give it a shot anyway. 
+Supposedly, yes...sometimes. I was—and remain—deeply skeptical. I feel that I understand the limitations of my vision, and having received shrugs and sorry looks from optometrists my entire life, the prospect of something helping enough to allow me to drive sounds like fiction. Alas, there are [numerous success stories on the Bioptic Drivers Australia website](https://www.biopticdriversaus.com/success-stories). The data-driven skeptic in me thinks that [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) is at play. After all, who's writing a story about how they _weren't_ eligible for a bioptic? I've resolved to give it a shot anyway. 
 
 #### Is it safe?
 
